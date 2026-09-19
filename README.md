@@ -47,14 +47,6 @@ Todo o atendimento acontece no Discord. O site foi pensado para levar o visitant
   <img src="screenshots/depoimentos.webp" alt="Seção de depoimentos" width="100%">
 </p>
 
-## No celular
-
-<p align="center">
-  <img src="screenshots/celular-hero.webp" alt="Página inicial no celular" width="30%">
-  &nbsp;&nbsp;
-  <img src="screenshots/celular-pacotes.webp" alt="Pacotes no celular" width="30%">
-</p>
-
 ## Como foi feito
 
 Página única em HTML, CSS e JavaScript, sem framework. As animações usam [GSAP](https://gsap.com) com ScrollTrigger, e a rolagem suave é do [Lenis](https://lenis.darkroom.engineering). A hospedagem é na Cloudflare, com um Worker servindo os arquivos estáticos.
