@@ -63,7 +63,7 @@ Os dados das seções (pacotes, etapas, mensagens do workflow) ficam em objetos 
 
 ## Equipe
 
-- [Douglas](https://github.com/dgolaus)
+- [s0da](https://github.com/dgolaus)
 - [trispil](https://github.com/trispil)
 - [ilyuszz](https://github.com/ilyuszz)
 
