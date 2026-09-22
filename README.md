@@ -55,7 +55,7 @@ Os dados das seções (pacotes, etapas, mensagens do workflow) ficam em objetos 
 
 ## Equipe
 
-| | | |
+| Quem | O que fez | Links |
 |---|---|---|
 | **S0DA** | Primeira reforma do site, revisão final e publicação. | [X](https://x.com/gfxs0da) · [GitHub](https://github.com/dgolaus) |
 | **Trispil** | Segunda reforma, a versão que está no ar. | [X](https://x.com/gfxtrispil) · [GitHub](https://github.com/trispil) |
