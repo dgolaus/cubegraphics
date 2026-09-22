@@ -55,10 +55,13 @@ Os dados das seções (pacotes, etapas, mensagens do workflow) ficam em objetos 
 
 ## Equipe
 
-- [s0da](https://github.com/dgolaus)
-- [trispil](https://github.com/trispil)
-- [ilyuszz](https://github.com/ilyuszz)
-- [Artt](https://github.com/Artt4sec)
+| | | |
+|---|---|---|
+| **S0DA** | Primeira reforma do site, revisão final e publicação. | [X](https://x.com/gfxs0da) · [GitHub](https://github.com/dgolaus) |
+| **Trispil** | Segunda reforma, a versão que está no ar. | [X](https://x.com/gfxtrispil) · [GitHub](https://github.com/trispil) |
+| **Lyus** | Segunda reforma, a versão que está no ar. | [X](https://x.com/gfxlyus) · [GitHub](https://github.com/ilyuszz) |
+| **Art** | Segunda reforma, a versão que está no ar. | [X](https://x.com/artpsdd) · [GitHub](https://github.com/Artt4sec) |
+| **Juan** | Fez o site original. A estrutura atual (seções, headline, pacotes) vem dele. | [X](https://x.com/JuanArtxz) · [GitHub](https://github.com/JuanArtxz) |
 
 ## Direitos
 
