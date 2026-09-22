@@ -58,6 +58,7 @@ Os dados das seções (pacotes, etapas, mensagens do workflow) ficam em objetos 
 - [s0da](https://github.com/dgolaus)
 - [trispil](https://github.com/trispil)
 - [ilyuszz](https://github.com/ilyuszz)
+- [Artt](https://github.com/Artt4sec)
 
 ## Direitos
 
